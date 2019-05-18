@@ -1,4 +1,4 @@
-var secreatNumber = 7;
+var secreatNumber = 12;
 
 var gussNumber= Number(prompt("Guess the Number in between 0 to 9"));
 
